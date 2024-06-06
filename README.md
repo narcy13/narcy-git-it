@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Narcizizztmusik
-- 👀 I’m interested into learning all of this asap
-- 🌱 I’m currently learning the very basics
-- 💞️ I’m looking to collaborate on anything lol
+- 👋 Hi, I’m @narc
+- 👀 I’m eventually gonna dive into all of this stuff, but for now im just watching and learning.
+- 🌱 I’m currently learning the very basics of programming as i design a website for my portfolio 
+- 💞️ I’m looking to collaborate on anything if youre willing to teach.
 - 📫 How to reach me bradleysuttontrucking@gmail.com 
 
 <!---
